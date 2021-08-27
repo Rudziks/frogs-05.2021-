@@ -1,0 +1,106 @@
+body{
+    background-image: linear-gradient(to right,#292929 , #738278);
+}
+
+.f{
+    font-family: 'Hepta Slab', sans-serif;
+}
+
+.main-nav{
+    background-color:#D7DA1B;
+    height: 5rem;
+}
+
+.m-n-f{
+    color: #2A2B2E;
+    font-size: 1.4rem;
+    margin-left: 1rem;
+}
+
+.br-on{
+    border-bottom: #292929 solid;
+}
+
+.m-n-f-z{
+    color: #2A2B2E;
+    font-size: 1.2rem;
+}
+
+.gen-inf{
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+
+.main-h-1{
+    color: #E9D9C3;
+    text-align: center;
+}
+
+
+.br-all{
+    border: #0000005d solid;
+    background-color: #0000005d;
+}
+
+.txt-d-n{
+    text-decoration:none;
+    color: #E9D9C3 ;
+}
+
+.img-1{
+    height: 13rem;
+    width: 18rem;
+    border-radius:8rem;
+}
+
+.padd-l-r{
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.br-b{
+    border-bottom: #0000005d solid;
+}
+
+.f-c{
+    color: #F2E9DC;
+    font-size: 1.3rem;
+}
+
+.f-c-2{
+    color: #F2E9DC;
+    font-size: 1rem;
+}
+
+.t-a-c{
+    text-align: center;
+}
+
+.br-u3{
+    margin-top: 8rem;
+}
+.br-u2{
+    margin-top: 5rem;
+}
+
+.br-u{
+    margin-top: 2rem;
+}
+
+.br-d3{
+    margin-bottom: 5rem;
+}
+
+.br-d2{
+    margin-bottom: 3rem;
+}
+
+.br-d{
+    margin-bottom: 2rem;
+}
+
+.txt-d-n:hover{
+    color: #CFD11A;
+}
+
+@media screen and (max-width:600px)
